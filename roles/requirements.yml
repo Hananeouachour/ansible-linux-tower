@@ -6,8 +6,5 @@
   version: "V1.0.1"
 - name: timezone
   src: alvistack.timezone
-  scm: git
-  version: "8.1.0"
 - name: motd
   src: claranet.motd
-  version: "2.1.1"
